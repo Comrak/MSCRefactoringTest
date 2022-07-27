@@ -1,0 +1,14 @@
+G:\Cursos\C#\MSC\ConsoleTestMSC\bin\Debug\netcoreapp3.1\ConsoleTestMSC.exe
+G:\Cursos\C#\MSC\ConsoleTestMSC\bin\Debug\netcoreapp3.1\ConsoleTestMSC.deps.json
+G:\Cursos\C#\MSC\ConsoleTestMSC\bin\Debug\netcoreapp3.1\ConsoleTestMSC.runtimeconfig.json
+G:\Cursos\C#\MSC\ConsoleTestMSC\bin\Debug\netcoreapp3.1\ConsoleTestMSC.runtimeconfig.dev.json
+G:\Cursos\C#\MSC\ConsoleTestMSC\bin\Debug\netcoreapp3.1\ConsoleTestMSC.dll
+G:\Cursos\C#\MSC\ConsoleTestMSC\bin\Debug\netcoreapp3.1\ConsoleTestMSC.pdb
+G:\Cursos\C#\MSC\ConsoleTestMSC\obj\Debug\netcoreapp3.1\ConsoleTestMSC.csproj.AssemblyReference.cache
+G:\Cursos\C#\MSC\ConsoleTestMSC\obj\Debug\netcoreapp3.1\ConsoleTestMSC.GeneratedMSBuildEditorConfig.editorconfig
+G:\Cursos\C#\MSC\ConsoleTestMSC\obj\Debug\netcoreapp3.1\ConsoleTestMSC.AssemblyInfoInputs.cache
+G:\Cursos\C#\MSC\ConsoleTestMSC\obj\Debug\netcoreapp3.1\ConsoleTestMSC.AssemblyInfo.cs
+G:\Cursos\C#\MSC\ConsoleTestMSC\obj\Debug\netcoreapp3.1\ConsoleTestMSC.csproj.CoreCompileInputs.cache
+G:\Cursos\C#\MSC\ConsoleTestMSC\obj\Debug\netcoreapp3.1\ConsoleTestMSC.dll
+G:\Cursos\C#\MSC\ConsoleTestMSC\obj\Debug\netcoreapp3.1\ConsoleTestMSC.pdb
+G:\Cursos\C#\MSC\ConsoleTestMSC\obj\Debug\netcoreapp3.1\ConsoleTestMSC.genruntimeconfig.cache

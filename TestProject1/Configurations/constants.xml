@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Constants>
+  <Constant>
+    <Id>1</Id>
+    <Name>registeredCustomerDiscount</Name>
+    <Value>0,1</Value>
+  </Constant>
+  <Constant>
+    <Id>2</Id>
+    <Name>valuableCustomerDiscount</Name>
+    <Value>0,7</Value>
+  </Constant>
+  <Constant>
+    <Id>3</Id>
+    <Name>mostValuableCustomeDiscount</Name>
+    <Value>0,5</Value>
+  </Constant>
+  <Constant>
+    <Id>4</Id>
+    <Name>maxYear</Name>
+    <Value>5</Value>
+  </Constant>
+  <Constant>
+    <Id>5</Id>
+    <Name>percentile</Name>
+    <Value>100</Value>
+  </Constant>
+</Constants>
